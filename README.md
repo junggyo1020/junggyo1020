@@ -1,22 +1,23 @@
 # Introduction
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunggyo1020%2F&count_bg=%23EDE4FC&title_bg=%237C43E8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
-😄 항상 최선을 다하는 개발자, Willie입니다!
+😄 항상 최선을 다하는 개발자, Willy입니다!
      
-### Name
+## Name
+정정교 Junggyo Jung  / 윌리(Willy)
+
+![Junggyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junggyo1020&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
     
-정정교 Junggyo Jung  / 윌리(Willie)
+## Contact Me
     
-### Contact Me
+**Email**  : willy_1020@naver.com
     
-**Email**  willy_1020@naver.com
+**H.P** : 010-5875-9185
     
-**H.P** 010-5875-9185
+**Blog** : [willie의 작은공간](https://willie1020.tistory.com/)
     
-**Blog** 
-    
-[willie의 작은공간](https://willie1020.tistory.com/)
-    
-### **Education**
+## **Education**
     
 > **휘문고등학교 졸업**
   > 
@@ -33,7 +34,7 @@
   > (2023.03 ~ )
   > 
     
-### Activity
+## Activity
     
 **3학년**
     
@@ -61,7 +62,7 @@
 - 교내학습지원서포터즈 ‘비상서포터즈’ 6기 `18.03~18.07`
 - 빅데이터/국가통계 전공 학생회 사무국장 `18.03~18.07`
     
-### Awards
+## Awards
     
 - ForIF 해커톤 전체 1위 (1위) `23-2`
 - 학장상 수상(4.5/4.5) `22-1`
@@ -69,10 +70,9 @@
 - 성적 최우수 학생 표창장 `19-1`
 - 교내 비교과 활동 우수 장학생 (이공계 1위) `18-2`
     
-### Skill
+## Skill
     
 ### Language
-    
 `Java` `C++` `C` `Python` `JavaScript` `SQL`
     
 ### Frontend
@@ -116,7 +116,7 @@
   • VPC를 활용한 RDS 분리 및 보호
         
     
-### Certificate
+# Certificate
     
 - 빅데이터분석실무 2급
 - ICDL Python
