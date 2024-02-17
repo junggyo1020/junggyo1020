@@ -10,11 +10,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
     
 ## Contact Me
-    
-**Email**  : willy_1020@naver.com
-    
 **H.P** : 010-5875-9185
-    
+
+**Email**  : willy_1020@naver.com
+
 **Blog** : [willie의 작은공간](https://willie1020.tistory.com/)
     
 ## **Education**
