@@ -14,7 +14,7 @@
 
 **Email**  : willy_1020@naver.com
 
-**Blog** : [willie의 작은공간](https://willie1020.tistory.com/)
+**Blog** : [willy의 작은공간](https://willie1020.tistory.com/)
     
 ## **Education**
     
