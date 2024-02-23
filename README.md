@@ -34,7 +34,11 @@
   > 
     
 ## Activity
-    
+
+**4학년**
+
+- [세상의 모든 쿠폰, 한번에 모아 "Coumo(쿠모)" 프로젝트](https://coumo.netlify.app/) `23.12~24.02`
+  
 **3학년**
     
 - UMC HYU(University MakeUs Challenge) 5th Server Part Member  `23.09~`
