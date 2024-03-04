@@ -123,5 +123,5 @@
     
 - 빅데이터분석실무 2급
 - [ICDL Python](./image/icdl_python.jpg)
-- [컴퓨터활용능력 1급](./image/컴활1급.jpg)
+- [컴퓨터활용능력 1급](./image/컴활1급.jpg)
 
