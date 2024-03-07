@@ -6,6 +6,7 @@
 ## Name
 정정교 Junggyo Jung  / 윌리(Willy)
 
+![Junggyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junggyo1020&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
     
 ## Contact Me
