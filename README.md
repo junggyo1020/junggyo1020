@@ -41,7 +41,7 @@
   
 **3학년**
     
-- [UMC HYU(University MakeUs Challenge) 5th Server Part Member](./image/UMC활동인증서.png)  `23.09~`
+- [UMC HYU(University MakeUs Challenge) 5th Server Part Member](./image/UMC활동인증서.png)  `23.09~`
 - 한양대학교 컴퓨터소프트웨어학부 알고리즘 동아리 ‘ALOHA’ Advenced Member `23.03~`
 - 한양대학교 중앙 학술 프로그래밍 동아리 ‘ForIF’ - Fullstack study member `23.09~`
 - 한양대학교 중앙 보드 동아리 ‘MUTE’  `23.09~`
