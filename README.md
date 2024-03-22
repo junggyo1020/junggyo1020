@@ -37,7 +37,7 @@
 
 **4학년**
 
-- [대학생 연합 IT벤처창업 동아리 'SOPT' 34th Server Part Member](https://www.sopt.org/) `24.03~`
+- [전국 대학생 연합 IT 벤처 창업 동아리 'SOPT|솝트' 34th Server Part Member](https://www.sopt.org/) `24.03~`
 - [세상의 모든 종이 쿠폰, 한 번에 모아! "Coumo(쿠모)" 프로젝트](https://github.com/UMC-5th-Coumo/server) `23.12~24.02`
   
 **3학년**
