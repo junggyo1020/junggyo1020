@@ -36,8 +36,8 @@
 ## Activity
 
 **4학년**
-
-- [전국 대학생 연합 IT 벤처 창업 동아리 "SOPT(솝트)" 34th Server Part Member](https://www.sopt.org/) `24.03~`
+- [내 계획에 딱 맞는 대학생 인턴의 시작, 터닝 (terning) 프로젝트](https://terning.framer.website/?fbclid=PAZXh0bgNhZW0CMTEAAaahidyYQQX1ITaXRvDFwVMsMA72NnfKFEZ9bh6W0UeUM5wSISMlwLN6CNo_aem_agk9XIlVlncskTOBEBUN9A) `24.06~`
+- [전국 대학생 연합 IT 벤처 창업 동아리 "SOPT(솝트)" 34th Server Part Member](https://www.sopt.org/) `24.03~24.07`
 - [세상의 모든 종이 쿠폰, 한 번에 모아! "Coumo(쿠모)" 프로젝트](https://github.com/UMC-5th-Coumo/server) `23.12~24.02` | [활동사진](./image/coumo1.JPG) | [활동사진(2)](./image/coumo2.JPG)
   
 **3학년**
@@ -45,7 +45,7 @@
 - [UMC HYU(University MakeUs Challenge) 5th Server Part Member](./image/UMC활동인증서.png)  `23.09~24.02`
 - 한양대학교 컴퓨터소프트웨어학부 알고리즘 동아리 ‘ALOHA’ Advenced Member `23.03~24.02`
 - 한양대학교 중앙 학술 프로그래밍 동아리 ‘ForIF’ - Fullstack study member `23.09~24.02`
-- 한양대학교 중앙 보드 동아리 ‘MUTE’  `23.09~`
+- 한양대학교 중앙 보드 동아리 ‘MUTE’  `23.09~24.07`
 - 한양대학교 컴퓨터소프트웨어학부 농구 동아리 ‘몽쉘통통’ `23.03~23.12`
     
 **2학년**
@@ -67,7 +67,7 @@
 - 빅데이터/국가통계 전공 학생회 사무국장 `18.03~18.07`
     
 ## Awards
-    
+- NOW SOPT 34TH APPJAM Demoday 수상 (최우수상) `24-1`
 - [ForIF 해커톤 전체 1위 (1위)](./image/forif.pdf) `23-2`
 - [학장상 수상(4.5/4.5)](./image/학장상.jpg) `22-1`
 - [고려아카데미 컨설팅 공모전 (대상)](./image/mmc.jpg) `19-1`
