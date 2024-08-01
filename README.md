@@ -1,10 +1,10 @@
 # Introduction
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunggyo1020%2F&count_bg=%23EDE4FC&title_bg=%237C43E8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-😄 항상 최선을 다하는 개발자, Willy입니다!
+😄 항상 최선을 다하는 개발자, Willie입니다!
      
 ## Name
-정정교 Junggyo Jung  / 윌리(Willy)
+정정교 Junggyo Jung  / 윌리(Willie)
 
 ![Junggyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junggyo1020&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
@@ -14,7 +14,7 @@
 
 **Email**  : willy_1020@naver.com
 
-**Blog** : [willy의 작은공간](https://willie1020.tistory.com/)
+**Blog** : [willie의 작은공간](https://willie1020.tistory.com/)
     
 ## **Education**
     
