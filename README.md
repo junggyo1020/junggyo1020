@@ -120,7 +120,7 @@
   • VPC를 활용한 RDS 분리 및 보호
         
     
-## Certificate
+## Certificate 
     
 - 빅데이터분석실무 2급
 - [ICDL Python](./image/icdl_python.jpg)
