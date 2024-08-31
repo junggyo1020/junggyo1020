@@ -1,7 +1,7 @@
 # Introduction 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunggyo1020%2F&count_bg=%23EDE4FC&title_bg=%237C43E8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-😄 항상 최선을 다하는 개발자, Willie입니다!  
+😄 항상 최선을 다하는 개발자, Willie입니다!
      
 ## Name
 정정교 Junggyo Jung  / 윌리(Willie)
