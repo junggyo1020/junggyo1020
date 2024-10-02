@@ -15,7 +15,7 @@
 
 📧 **이메일** : wilIy_1020@naver.com
 
-📑 **블로그** : [Willie의 작은 공간](https://willie1020.tistory.com/)
+📑 **블로그** : [willie의 작은 공간](https://willie1020.tistory.com/)
 
 🔗 **Github** : [github.com/junggyo1020](https://github.com/junggyo1020)
     
