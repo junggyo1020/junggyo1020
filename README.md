@@ -68,7 +68,7 @@
 - 빅데이터/국가통계 전공 학생회 사무국장 `18.03~18.07`
     
 ## Awards
-- NOW SOPT 34TH APPJAM Demoday 수상 (최우수상) `24-1`
+- [NOW SOPT 34TH APPJAM Demoday 수상 (최우수상)](./image/SOPT_APPJAM_최우수상.JPG) `24-1`
 - [ForIF 해커톤 전체 1위 (1위)](./image/forif.pdf) `23-2`
 - [학장상 수상 (4.5/4.5)](./image/학장상.jpg) `22-1`
 - [고려아카데미 컨설팅 공모전 (대상)](./image/mmc.jpg) `19-1`
