@@ -36,9 +36,10 @@
 ## Activity
 
 **4학년**
-- 내 계획에 딱 맞는 대학생 인턴의 시작, 터닝 (terning) 프로젝트 [TERNING](https://github.com/teamterning/Terning-Server) `24.06~`
-- 전국 대학생 연합 IT 벤처 창업 동아리 "SOPT(솝트)" 34th Server Part Member [SOPT](https://www.sopt.org/) `24.03~24.07`
-- 세상의 모든 종이 쿠폰, 한 번에 모아! "Coumo(쿠모)" 프로젝트 [COUMO](https://github.com/UMC-5th-Coumo/server) `23.12~24.02` | [활동사진](./image/coumo1.JPG) | [활동사진(2)](./image/coumo2.JPG)
+- 내 계획에 딱 맞는 대학생 인턴의 시작, 터닝 (terning) 프로젝트 [TERNING](https://github.com/teamterning/Terning-Server) `24.06~` | [최우수상](./image/SOPT_APPJAM_최우수상.JPG) | [활동증명서](./image/APPJAM활동인증서.JPG) |
+- 전국 대학생 연합 IT 벤처 창업 동아리 "SOPT(솝트)" 34th Server Part Member [SOPT](https://www.sopt.org/) `24.03~24.07` | [수료증](./image/SOPT수료증.JPG) | [SOPKATHON 활동증명서](./image/SOPTKATHON활동인증서.JPG) |
+  
+- 세상의 모든 종이 쿠폰, 한 번에 모아! "Coumo(쿠모)" 프로젝트 [COUMO](https://github.com/UMC-5th-Coumo/server) `23.12~24.02` | [활동사진](./image/coumo1.JPG) | [활동사진(2)](./image/coumo2.JPG) |
   
 **3학년**
     
