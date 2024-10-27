@@ -6,9 +6,6 @@
 ## Name
 정정교 Junggyo Jung  / 윌리(Willie) 
 
-![Junggyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junggyo1020&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
-    
 ## Contact Me
 
 📞 **연락처** : 010-5875-9185
@@ -18,7 +15,23 @@
 📑 **블로그** : [willie의 작은 공간](https://willie1020.tistory.com/)
 
 🔗 **Github** : [github.com/junggyo1020](https://github.com/junggyo1020)
-    
+
+## Summary
+<table>
+  <tbody>
+    <tr>
+    <td align="center">
+      <img src="github-metrics-left.svg" alt="" />
+    </td>
+    <td align="center">
+      <img src="github-metrics-right.svg" alt=""/>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/) -->
+
 ## **Education**
     
 - 휘문고등학교 졸업 `2014.03 ~ 2017.02`
