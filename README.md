@@ -4,7 +4,7 @@
 🖐️ 남다른 몰입으로 성장해나가는 개발자, Willie 입니다!
      
 ## Name
-정정교 Junggyo Jung  / 윌리(Willie) 
+정정교 Junggyo Jung  / 윌리(Willie)
 
 ## Contact Me
 
