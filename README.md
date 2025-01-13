@@ -71,7 +71,7 @@
 **2학년**
     
 - 장애학생학습지원활동 `18.03~19.12`
-- Big Data 가공 및 분석 플랫폼 'GDS 컨설팅 그룹' 인턴 `19.07~19.12`
+- Big Data 가공 및 분석 플랫폼 'GDS 컨설팅 그룹' 인턴 `19.07~19.08`
 - 고려대학교 공공정책대학 학생회 집행부장  `19.09~19.12`
 - 중앙 마케팅 동아리 'MMC' `19.03~19.07`
 - 교내 비교과 서포터즈 '잡아라서포터즈' 4기 `19.09~19.12`
@@ -97,15 +97,15 @@
 ## Skill
     
 ### Language
-`Java` `C++` `C` `Python` `JavaScript` `SQL`
+`Java` `C++` `C` `Python` `SQL`
     
 ### Frontend
     
-`HTML` `CSS` 
+`HTML` `CSS`
     
 ### Backend
     
-`Spring` `SpringBoot` `NodeJS` `JPA` `PostgreSQL` `MySQL` `Docker` `Nginx` `EC2` `RDS` 
+`Spring` `SpringBoot` `JPA` `PostgreSQL` `MySQL` `Docker` `Nginx` `EC2` `RDS` 
     
 ### Tools
     
