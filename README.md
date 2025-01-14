@@ -32,14 +32,6 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/) -->
 
-## **Education**
-    
-- 휘문고등학교 졸업 `2014.03 ~ 2017.02`
-    
-- 고려대학교 경제통계학부 수료 `2018.03 ~ 2022.07`
-    
-- 한양대학교 컴퓨터소프트웨어학부 재학 `2023.03 ~ 현재`
-    
 ## Activity
 
 **4학년**
@@ -96,20 +88,40 @@
     
 ## Skill
     
-### Language
-`Java` `C++` `C` `Python` `SQL`
-    
-### Frontend
-    
-`HTML` `CSS`
-    
 ### Backend
-    
-`Spring` `SpringBoot` `JPA` `PostgreSQL` `MySQL` `Docker` `Nginx` `EC2` `RDS` 
-    
-### Tools
-    
-`Notion` `Discord` `Figma` `Postman`
+
+`Java` / `Spring Boot` / `Spring Data JPA`
+
+### DB / Cache
+
+`MySQL` / `PostgreSQL`
+
+### Server / Deployment
+
+`Apache Tomcat` / `AWS EC2` / `AWS RDS` / `Load Balancer`
+
+### Tools / Test Code / Performance Test
+
+`IntelliJ IDEA` / `Eclipse` / `Visual Studio Code` / `Postman`
+
+`JUnit5` / `Jmeter`
+
+### OS
+
+`Linux` (Ubuntu 22.04 LTS)
+
+### Collaborations
+
+`Git` / `Slack` / `Notion` / `Discord` / `Figma`
+
+### 경험
+
+- **Java**와 **Spring Boot**, **PostgreSQL**을 활용한 다양한 프로젝트 수행
+- **JPA**와 **QueryDsl**를 이용하여 데이터베이스 설계 및 유지보수 진행
+- **JUnit5**를 활용하여 다양한 시나리오에 대한 테스트 코드 작성 및 품질 관리
+- **Docker**를 사용해 환경을 구성하고, **AWS** 서비스(EC2, S3, RDS 등)을 활용하여 애플리케이션을 배포하고 운영
+- Github Actions를 이용해 **CI/CD** 파이프라인을 구축하여 자동화된 배포 및 테스트 진행
+- 코드의 가독성과 유지보수성을 높이기 위해 builder 패턴, record 클래스, @Nested 등 다양한 기법을 공부하고 적용하여 지속적으로 **리팩토링** 진행
     
 ## Certificate 
 
