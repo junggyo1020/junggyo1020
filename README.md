@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunggyo1020%2F&count_bg=%23EDE4FC&title_bg=%237C43E8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 # 🔎 Introduction
 🖐️ 남다른 몰입으로 성장해나가는 개발자, Willie 입니다!!
      
