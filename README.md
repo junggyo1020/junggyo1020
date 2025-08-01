@@ -33,6 +33,8 @@
 ## Activity
 
 **4학년**
+- Samsung Software AI academy For Youth 'SSAFY' `24.07 ~ 현재`
+
 - 내 계획에 딱 맞는 대학생 인턴의 시작, 터닝 (terning) 프로젝트 'TERNING' `24.06 ~ 현재`
     
     [[**Github**](https://github.com/teamterning/Terning-Server)] | [[**최우수상**](https://github.com/junggyo1020/junggyo1020/blob/main/image/SOPT_APPJAM_%E1%84%8E%E1%85%AC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.JPG)] | [[**활동증명서**](https://github.com/junggyo1020/junggyo1020/blob/main/image/APPJAM%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG)]
