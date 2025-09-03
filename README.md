@@ -43,7 +43,7 @@
 
      [[**Github**](https://github.com/sopt-makers/sopt-playground-backend)]
 
-- 공연의 시작과 끝을 한번에, "Confeti(콘페티)" 프로젝트 'CONFETI' `24.03 ~ 현재`
+- 공연의 시작과 끝을 한번에, "Confeti(콘페티)" 프로젝트 'CONFETI' `24.03 ~ 24.08`
   
   [[**Github**](https://github.com/team-confeti/confeti-server)]
     
