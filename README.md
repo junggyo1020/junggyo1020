@@ -33,7 +33,7 @@
 ## Activity
 
 **4학년**
-- Samsung Software AI academy For Youth 'SSAFY' `24.07 ~ 현재`
+- Samsung Software AI academy For Youth 'SSAFY' `25.07 ~ 현재`
 
 - 내 계획에 딱 맞는 대학생 인턴의 시작, 터닝 (terning) 프로젝트 'TERNING' `24.06 ~ 현재`
     
