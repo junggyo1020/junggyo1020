@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
 
 ## Activity
 
@@ -85,9 +85,9 @@
 ## Awards
 - [NOW SOPT 34TH APPJAM Demoday 수상 (최우수상)](./image/SOPT_APPJAM_최우수상.JPG) `24-1`
 - [ForIF 해커톤 전체 1위 (1위)](./image/forif.pdf) `23-2`
-<!-- [학장상 수상 (4.5/4.5)](./image/학장상.jpg) `22-1` -->
-<!-- [고려아카데미 컨설팅 공모전 (대상)](./image/mmc.jpg) `19-1` -->
-<!-- [성적 최우수 학생 표창장](./image/학업우수상.jpg) `19-1` -->
+- [학장상 수상 (4.5/4.5)](./image/학장상.jpg) `22-1`
+- [고려아카데미 컨설팅 공모전 (대상)](./image/mmc.jpg) `19-1`
+- [성적 최우수 학생 표창장](./image/학업우수상.jpg) `19-1`
 - 교내 비교과 활동 우수 장학생 (이공계 1위) `18-2`
     
 ## Skill
