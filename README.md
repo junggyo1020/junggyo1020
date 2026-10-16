@@ -12,8 +12,6 @@
 
 📑 **블로그** : [willie의 작은 공간](https://willie1020.tistory.com/)
 
-🔗 **Github** : [github.com/junggyo1020](https://github.com/junggyo1020)
-
 ## Summary
 <table>
   <tbody>
@@ -27,8 +25,6 @@
     </tr>
   </tbody>
 </table>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyo1020)](https://solved.ac/jungyo1020/)
 
 ## Activity
 
