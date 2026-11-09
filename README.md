@@ -138,7 +138,7 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 
 | 기간 | 기관 | 내용 |
 |:---:|---|---|
-| <code>2025.07&nbsp;~&nbsp;2026.06</code> | **SSAFY 14기** | 우수 등급(상위 30%) 수료, 총 1,628시간 <br> 전공반 반장, 알고리즘 스터디장, CS 스터디 그룹장 |
+| <code>2025.07&nbsp;~&nbsp;2026.06</code> | **SSAFY 14기 서울캠퍼스** | 우수 등급(상위 30%) 수료, 총 1,628시간 <br> 전공반 반장, 알고리즘 스터디장, CS 스터디 그룹장 |
 | <code>2023.03&nbsp;~&nbsp;2025.08</code> | **한양대학교** | 컴퓨터소프트웨어학부 졸업 (편입) |
 | <code>2018.03&nbsp;~&nbsp;2023.01</code> | **고려대학교** | 경제통계학부 |
 
@@ -176,7 +176,7 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 
 | 기간 | 활동 | 주요 내용 |
 |:---:|---|---|
-| <code>2025.07&nbsp;~&nbsp;2026.06</code> | **SSAFY 14기** <br> [수료증](./image/SSAFY_certificate.pdf) | 전공반 반장, 반 내 이달의 동료 2회 선정 <br> 입학생 대표 삼성 뉴스룸 인터뷰 |
+| <code>2025.07&nbsp;~&nbsp;2026.06</code> | **SSAFY 14기 서울캠퍼스** <br> [수료증](./image/SSAFY_certificate.pdf) | 전공반 반장, 반 내 이달의 동료 2회 선정 <br> 입학생 대표 삼성 뉴스룸 인터뷰 |
 | <code>2025.02&nbsp;~&nbsp;2025.08</code> | **SOPT Makers 36기** <br> [GitHub](https://github.com/sopt-makers/sopt-playground-backend) | Playground 팀 백엔드 개발 <br> 디자이너 대상 협업 세미나 진행 |
 | <code>2024.03&nbsp;~&nbsp;2024.07</code> | **SOPT 34기 서버 파트** <br> [수료증](./image/SOPT%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.JPG), [APPJAM](./image/APPJAM%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG), [SOPKATHON](./image/SOPKATHON%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG) | 서버 파트 리드 <br> 2개월 합숙 앱 개발 및 출시 |
 | <code>2023.09&nbsp;~&nbsp;2024.02</code> | **UMC 5기 서버 파트** <br> [명예의 전당](./image/UMC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%A1%E1%86%BC.png), [활동인증서](./image/UMC%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.png) | 주간 서버 과제 수행 <br> 명예의 전당 최다 등재 |
