@@ -61,9 +61,9 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 | 과제 | 문제와 해결 | 결과 |
 |---|---|---|
 | **대기열 응답 지연** | SSE 장기 연결로 스레드 고갈 <br> 대기자 1명당 Redis 7회 개별 호출 <br> → Virtual Thread, Redis Pipeline 도입 | **P95 응답시간 49% 단축** <br> (889ms → 454ms) <br> **Redis 호출 85% 감소** |
-| **좌석 선점 병목** | 회차 단위 분산락으로 다른 좌석까지 대기 <br> → 좌석 단위 InnoDB row lock 전환 | **병렬 처리와 정합성 확보** |
+| **좌석 선점 병목** | 회차 단위 분산락으로 다른 좌석까지 대기 <br> → 좌석 단위 InnoDB row lock 전환 | **100건 동시 요청 시** <br> **성공 1건, 에러 0건** |
 | **Redis 단일 장애점** | 노드 장애 시 대기열, 선점, 인증 동시 중단 <br> → Redis Sentinel 구성 <br> (Master 1, Replica 2, Sentinel 3) | **5초 내 자동 페일오버** |
-| **운영 관측성** | 5대 서버 분산 환경의 상태 파악 필요 <br> → Prometheus, Grafana, Loki, Tempo <br> 구축 및 Mattermost 알림 연동 | **메트릭, 로그, 트레이스** <br> **통합 모니터링** |
+| **매크로 탐지 연동** | 정상 사용자와 매크로 구분 기준 부재 <br> → 행동 데이터 30종 수집, AI 추론, <br> 블랙리스트 등록 파이프라인 설계 | **6가지 매크로 유형 탐지** <br> 탐지 즉시 블랙리스트 차단 |
 
 **Tech** `Java 21` `Spring Boot 3.4` `Spring Security` `JPA` `Kafka` `SSE` `MySQL 8` `Redis 7` `Docker` `Jenkins` `AWS` `Nginx` `Prometheus` `Grafana`
 
@@ -83,7 +83,7 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 | 과제 | 문제와 해결 | 결과 |
 |---|---|---|
 | **조회 성능** | 스크랩 여부 확인으로 N+1 쿼리 발생 <br> → QueryDSL Tuple 기반 Left Join 단일 쿼리 | **평균 응답시간 61% 단축** <br> **처리량 2.5배 향상** |
-| **알림 장애 전파** | 알림 로직과 운영 서버의 강한 결합 <br> → 알림 서버 분리, AWS Lambda 스케줄링 | **메인 서버 장애 격리** |
+| **알림 장애 전파** | 알림 로직과 운영 서버의 강한 결합 <br> → 알림 서버 분리, AWS Lambda 스케줄링 | **알림 장애와 공고 조회 분리** <br> 푸시 알림 3종 운영 |
 | **스테이징 비용** | 스테이징용 RDS 신설 시 비용 증가 <br> → 단일 PostgreSQL 내 스키마 분리 | **DB 비용 70% 절감** <br> **전체 운영비 40% 절감** |
 | **배포 안정성** | 신규 버전 배포 시 서비스 중단 위험 <br> → Nginx Blue/Green 무중단 배포 | **배포 다운타임 0** <br> **누적 사용자 1,700명 이상** |
 
@@ -102,9 +102,9 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 
 | 과제 | 문제와 해결 | 결과 |
 |---|---|---|
-| **구독 변경 관리** | 월 구독의 변경 시점과 상태 관리 필요 <br> → 익월 예약, 확정, 취소, 자동 갱신 설계 | **구독 생명주기 전 구간 처리** |
-| **감사 로그 정합성** | 업무 처리와 감사 로그 간 불일치 위험 <br> → Transactional Outbox 패턴 적용 | **멱등성 보장** <br> 실패 건 DLQ 저장 후 재처리 |
-| **요청 추적** | 요청 단위 추적과 개인정보 보호 필요 <br> → MDC 로그 추적, 민감정보 자동 마스킹 | **요청 단위 추적** <br> **민감정보 노출 차단** |
+| **구독 변경 관리** | 월 구독의 변경 시점과 상태 관리 필요 <br> → 변경 예약, 확정, 취소 상태 흐름 설계 | **익월 적용 변경 예약** <br> **매월 자동 갱신** |
+| **감사 로그 정합성** | 업무 처리와 감사 로그 간 불일치 위험 <br> → Transactional Outbox 패턴 적용 <br> (메시지 브로커 없이 스케줄러 폴링) | **이관 시 중복 확인으로 멱등성 보장** <br> 실패 건 원인과 함께 DLQ 저장 |
+| **요청 추적** | 여러 로그에 흩어진 요청 흐름 파악 필요 <br> → MDC 기반 요청 ID 로그 추적 | **요청 ID로 전 구간 로그 조회** <br> 로그 내 민감정보 자동 마스킹 |
 
 **Tech** `Java` `Spring Boot` `Spring Security` `MyBatis` `PostgreSQL` `GPT API` `Gemini API` `AWS EC2` `GitLab CI` `Loki` `Grafana`
 
@@ -112,12 +112,12 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 
 ### Other Projects
 
-| 프로젝트 | 소개 | 주요 성과 |
+| 프로젝트 | 소개 | 담당 업무 및 성과 |
 |---|---|---|
-| **[SOPT Playground](https://github.com/sopt-makers/sopt-playground-backend)** <br> <code>2025.02&nbsp;~&nbsp;2025.08</code> | SOPT 구성원 3,000명 규모 커뮤니티 | JWK 기반 인증 중앙화 설계 <br> 커뮤니티 및 타임캡슐 기능 개발 |
-| **[AlgoHub](https://github.com/GAMZA-BAT/algohub-server)** <br> <code>2025.07&nbsp;~&nbsp;2026.06</code> | 알고리즘 스터디 관리 플랫폼 | 홈 화면 추천 API 3종 설계 <br> 배치와 스냅샷 테이블로 집계 병목 해소 |
-| **[Confeti](https://github.com/team-confeti/confeti-api-server)** <br> <code>2024.03&nbsp;~&nbsp;2024.08</code> | 공연 및 페스티벌 정보 관리 플랫폼 | 반정규화로 API 응답시간 80% 단축 <br> 공연 데이터 수집용 배치 서버 분리 |
-| **[Coumo](https://github.com/UMC-5th-Coumo/server)** <br> <code>2023.12&nbsp;~&nbsp;2024.02</code> | 종이 쿠폰 통합 관리 플랫폼 | UMC 5기 팀 프로젝트 개발 <br> 데모데이 출품 |
+| **[SOPT Playground](https://github.com/sopt-makers/sopt-playground-backend)** <br> <code>2025.02&nbsp;~&nbsp;2025.08</code> | SOPT 3,000명 규모 커뮤니티 | JWK 기반 JWT 공통 인증 모듈 구축 <br> 커뮤니티, 타임캡슐, 언급 기능 개발 |
+| **[AlgoHub](https://github.com/GAMZA-BAT/algohub-server)** <br> <code>2025.07&nbsp;~&nbsp;2026.06</code> | 알고리즘 스터디 관리 플랫폼 | 추천 API 3종 설계 <br> (최다 활동, 가입률 상승, 난이도 유사) <br> 스냅샷 테이블로 실시간 집계 제거 |
+| **[Confeti](https://github.com/team-confeti/confeti-api-server)** <br> <code>2024.03&nbsp;~&nbsp;2024.08</code> | 공연 및 페스티벌 정보 플랫폼 | 테이블 5개 이상 반정규화 <br> 핵심 API 응답시간 80% 단축 <br> 공연 데이터 수집 배치 서버 분리 |
+| **[Coumo](https://github.com/UMC-5th-Coumo/server)** <br> <code>2023.12&nbsp;~&nbsp;2024.02</code> | QR 코드 쿠폰 적립 플랫폼 | 회원가입, 로그인 API 개발 <br> 사장님용 영수증 구독, 디자인 기능 |
 
 <br>
 
