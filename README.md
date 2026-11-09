@@ -176,11 +176,11 @@ AI 기반 매크로 방지 공정 티켓팅 플랫폼
 
 | 기간 | 활동 | 주요 내용 |
 |:---:|---|---|
-| <code>2025.07&nbsp;~&nbsp;2026.06</code> | **SSAFY 14기 서울캠퍼스** <br> [수료증](./image/SSAFY_certificate.pdf) | 전공반 반장, 반 내 이달의 동료 2회 선정 <br> 입학생 대표 삼성 뉴스룸 인터뷰 |
-| <code>2025.02&nbsp;~&nbsp;2025.08</code> | **SOPT Makers 36기** <br> [GitHub](https://github.com/sopt-makers/sopt-playground-backend) | Playground 팀 백엔드 개발 <br> 디자이너 대상 협업 세미나 진행 |
-| <code>2024.03&nbsp;~&nbsp;2024.07</code> | **SOPT 34기 서버 파트** <br> [수료증](./image/SOPT%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.JPG), [APPJAM](./image/APPJAM%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG), [SOPKATHON](./image/SOPKATHON%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG) | 서버 파트 리드 <br> 2개월 합숙 앱 개발 및 출시 |
-| <code>2023.09&nbsp;~&nbsp;2024.02</code> | **UMC 5기 서버 파트** <br> [명예의 전당](./image/UMC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%A1%E1%86%BC.png), [활동인증서](./image/UMC%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.png) | 주간 서버 과제 수행 <br> 명예의 전당 최다 등재 |
-| <code>2023.09&nbsp;~&nbsp;2023.12</code> | **한양대학교 FORIF** <br> [수료증](./image/forif.pdf) | 프로그래밍 동아리 풀스택 과정 수료 <br> Winter Hackathon 1위 |
+| <code>2025.07&nbsp;~&nbsp;2026.06</code> | **SSAFY 14기 서울캠퍼스** <br> [수료증](./image/SSAFY_certificate.pdf) | **공통, 특화, 자율 프로젝트 3회 중 2회 수상** <br> 이달의 동료 2회 선정 <br> 입학생 대표 삼성 뉴스룸 인터뷰 |
+| <code>2025.02&nbsp;~&nbsp;2025.08</code> | **SOPT Makers 36기** <br> [GitHub](https://github.com/sopt-makers/sopt-playground-backend) | **3,000명 규모 커뮤니티** 백엔드 개발 및 운영 <br> 디자이너 40명 설문 후 협업 세미나, 30명 참석 |
+| <code>2024.03&nbsp;~&nbsp;2024.07</code> | **SOPT 34기 서버 파트** <br> [수료증](./image/SOPT%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.JPG), [APPJAM](./image/APPJAM%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG), [SOPKATHON](./image/SOPKATHON%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.JPG) | 서버 파트 리드, **APPJAM 최우수상** (Terning) <br> 출시 후 실사용자 1,700명 이상 운영 |
+| <code>2023.09&nbsp;~&nbsp;2024.02</code> | **UMC 5기 서버 파트** <br> [명예의 전당](./image/UMC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%A1%E1%86%BC.png), [활동인증서](./image/UMC%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.png) | 주간 서버 과제로 **명예의 전당 최다 등재** <br> 3개월 팀 프로젝트 Coumo 서버 개발 |
+| <code>2023.09&nbsp;~&nbsp;2023.12</code> | **한양대학교 FORIF** <br> [수료증](./image/forif.pdf) | **Winter Hackathon 8팀 중 1위** <br> Node.js 풀스택 과정 수료 |
 | <code>2023.03&nbsp;~&nbsp;2024.02</code> | **한양대학교 ALOHA** | 알고리즘 동아리 정기 강의 및 문제 풀이 <br> 중급반 자료구조 심화 학습 |
 
 <details>
